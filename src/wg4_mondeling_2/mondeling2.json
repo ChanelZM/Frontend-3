@@ -1,0 +1,121 @@
+[
+    {
+        "Snack": "Chips"
+        , "Date": "9/9/16 8:00 PM"
+        , "Feeling Before": "Happy"
+        , "Feeling After": "Happy"
+        , "Comments": "I was drunk"
+        , "Location": "Well"
+        , "Eat with": "Levi, Diermo, Rutger, Wennessa"
+        , "Calories": 508
+    }
+    , {
+        "Snack": "Donut"
+        , "Date": "9/12/16 12:00 PM"
+        , "Feeling Before": "Happy"
+        , "Feeling After": "Sad"
+        , "Comments": "It has so many calories"
+        , "Location": "Well"
+        , "Eat with": "Wennessa"
+        , "Calories": 198
+    }
+    , {
+        "Snack": "Pizza"
+        , "Date": "9/13/16 11:00 AM"
+        , "Feeling Before": "Happy"
+        , "Feeling After": "Sad"
+        , "Comments": "Because i cheated on my diet"
+        , "Location": "Weesperplein"
+        , "Eat with": ""
+        , "Calories": 92
+    }
+    , {
+        "Snack": "Pizza"
+        , "Date": "9/15/16 11:00 PM"
+        , "Feeling Before": "Happy"
+        , "Feeling After": "Sad"
+        , "Comments": "Because i cheated on my diet"
+        , "Location": "Holendrecht"
+        , "Eat with": "Levi"
+        , "Calories": 711
+    }
+    , {
+        "Snack": "Chips"
+        , "Date": "9/15/16 9:00 PM"
+        , "Feeling Before": "Happy"
+        , "Feeling After": "Sad"
+        , "Comments": "because i cheated on my diet"
+        , "Location": "Holendrecht"
+        , "Eat with": "Levi"
+        , "Calories": 508
+    }
+    , {
+        "Snack": "Chips"
+        , "Date": "9/16/16 8:30 PM"
+        , "Feeling Before": "Happy"
+        , "Feeling After": "Sad"
+        , "Comments": "Because i cheated on my diet"
+        , "Location": "Kraanspoor"
+        , "Eat with": "Naomi"
+        , "Calories": 494
+    }
+    , {
+        "Snack": "Koekjes"
+        , "Date": "9/16/16 9:30 PM"
+        , "Feeling Before": "Sad"
+        , "Feeling After": "Sad"
+        , "Comments": "I cheated even more"
+        , "Location": "Kraanspoor"
+        , "Eat with": "Naomi"
+        , "Calories": 320
+    }
+    , {
+        "Snack": "Pizza"
+        , "Date": "9/24/16 9:30 PM"
+        , "Feeling Before": "Happy"
+        , "Feeling After": "Happy"
+        , "Comments": "Used more healthy products"
+        , "Location": "Holendrecht"
+        , "Eat with": "Hymke"
+        , "Calories": 500
+    }
+    , {
+        "Snack": "Chips"
+        , "Date": "9/24/16 11:30 PM"
+        , "Feeling Before": "Happy"
+        , "Feeling After": "Angry"
+        , "Comments": "Tasted disgusting"
+        , "Location": "Holendrecht"
+        , "Eat with": "Hymke"
+        , "Calories": 400
+    }
+    , {
+        "Snack": "Pizza"
+        , "Date": "9/25/16 11:00 AM"
+        , "Feeling Before": "Happy"
+        , "Feeling After": "Happy"
+        , "Comments": "It was good"
+        , "Location": "Holendrecht"
+        , "Eat with": ""
+        , "Calories": 500
+    }
+    , {
+        "Snack": "Chips"
+        , "Date": "9/25/16 8:00 PM"
+        , "Feeling Before": "Happy"
+        , "Feeling After": "Sad"
+        , "Comments": "Because i cheated on my diet"
+        , "Location": "Kantershof"
+        , "Eat with": "Levi"
+        , "Calories": 20
+    }
+    , {
+        "Snack": "Chips"
+        , "Date": "9/27/16 9:30 PM"
+        , "Feeling Before": "Happy"
+        , "Feeling After": "Sad"
+        , "Comments": "I ate too much of it"
+        , "Location": "Holendrecht"
+        , "Eat with": ""
+        , "Calories": 550
+    }]

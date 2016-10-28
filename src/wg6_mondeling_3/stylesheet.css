@@ -1,0 +1,99 @@
+p {
+    color: #fcc9a5;
+    font-size: 1.2rem;
+}
+
+h1 {
+    font-family: 'Queen of Heaven', serif;
+    font-size: 2rem;
+    text-align: center;
+}
+
+h2 {
+    border-bottom: 1px solid #f48031;
+    font-size: 3em;
+}
+
+body {
+    background: #d13027;
+    background: -webkit-linear-gradient(#d13027 0%, #c22b21 100%);
+    background: -moz-linear-gradient(#d13027 0%, #c22b21 100%);
+    background: -o-linear-gradient(#d13027 0%, #c22b21 100%);
+    background: linear-gradient(#d13027 0%, #c22b21 100%);
+    background-attachment: fixed;
+    color: white;
+    font-family: 'Springsteel', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    border-bottom: 1px solid #f48031;
+    margin: 0 30% 0 30%;
+}
+
+main {
+    display: flex;
+    margin: 5em 0 10rem 0;
+    padding: 0 10% 0 10%;
+}
+
+.rightcolumn {
+    width: 60%;
+}
+
+.aboutme {
+    margin: 10rem 0 0 0;
+}
+
+.rightcolumn > p {
+    color: white;
+    font-weight: 400;
+    text-align: center;
+}
+
+img[src="me.png"] {
+    width: 40rem;
+}
+
+img[src="pizzaslice.png"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 2em;
+}
+
+.explanation {
+    margin-top: 40em;
+}
+
+svg {
+    margin: 10em 0 0 0;
+}
+
+strong {
+    display: block;
+}
+
+.visible, #button {
+   opacity: 0;
+}
+
+.explanation a {
+    background-color: #f48031;
+    border-radius: 0.3em;
+    color: white;
+    cursor: pointer;
+    margin-top: 3em;
+    padding: 0.5em;
+    text-decoration: none;
+}
+
+.explanation a:hover {
+    background-color: #ff722c;
+    transition-duration: 500ms;
+}
+
+.explanation a:visited {
+    color: white;
+}

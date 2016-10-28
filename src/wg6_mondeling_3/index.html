@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>wg mondeling 3</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="stylesheet.css" type="text/css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+</head>
+
+<body>
+   <header>
+       <h1>How can I eat healthy?</h1>
+   </header>
+   <main>
+       <section class="leftcolumn">
+           <img src="me.png" alt="picture of me looking up"/>
+           <svg>
+               
+           </svg>
+           <section class="graphchoices">
+               <h3>Graphs</h3>
+               <input type="checkbox" name="calories" value="caloriegraph" checked="checked" id="caloriebar" /> Daily calorie intake
+               <input type="checkbox" name="school" value="schoolgraph" id="schoolgraph" /> Time spend on school
+           </section>
+           <section class="sorting">
+               <h3>Sort by</h3>
+               <input type="radio" name="sortby" value="week" checked="checked" id="sortbyweek" /> Days of the week
+               <input type="radio" name="sortby" value="calories" id="sortbycalories" /> Calories high to low
+           </section>
+           <section class="filtering">
+               <h3>Filter on feelings</h3>
+               <input type="range" name="feelings" min="0" max="12" id="filtering" value="0" />
+               <output></output>
+           </section>
+       </section>
+       <section class="rightcolumn">
+           <section class="aboutme">
+               <h2>About Me</h2>
+               <p>I’m Chanel, I love food.... I mean I really love food. I want to lose some weight but I’ve got a sweet tooth. So in the past six weeks I’ve been documenting I few things like calories, expenses, feelings and time spend on school. I’m going to compare them, make some conclusions and hopefully... I will stop eating so much. Enjoy!</p>
+           </section>
+           <p>Scroll to explore</p>
+           <img src="pizzaslice.png" alt="a pizza slice pointing downwards"/>
+           <section class="explanation" id="explanation">
+               <h2 class="title">I eat the most on fridays</h2>
+               <p class="description">Or at least, it looks that way. Friday is competing with monday.</p>
+               <strong>Try to sort by calories.</strong>
+               <a href="" id="button">Go to my expenses!</a>
+           </section>
+       </section>
+   </main>
+   <footer>
+       by Chanel Mepschen | <a href="http://www.chanelmepschen.nl">chanelmepschen.nl</a>
+   </footer>
+    <script src="../d3.min.js"></script>
+    <script src="backup.js" type="text/javascript"></script>
+</body>
+
+</html>
